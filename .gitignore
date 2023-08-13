@@ -1,0 +1,9 @@
+data/TUSZ_v2/*
+
+*.log
+
+checkpoint/*
+
+/output
+
+*.out
