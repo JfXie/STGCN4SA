@@ -4,7 +4,7 @@
 ## Exploring Brain Connectivity with Spatial-Temporal Graph Neural Networks for Improved EEG Seizure Analysis
 
 
-## Quick Staty
+## Quick Start
 
 ### Datasets
 
